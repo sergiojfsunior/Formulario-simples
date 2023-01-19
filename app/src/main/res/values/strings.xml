@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FormularioSimples</string>
+    <string name="name">Nome</string>
+    <string name="phone_number">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="address">Endereço</string>
+    <string name="company">Empresa</string>
+    <string name="title">Titulo</string>
+    <string name="website">Site</string>
+    <string name="done">Concluído</string>
+</resources>
