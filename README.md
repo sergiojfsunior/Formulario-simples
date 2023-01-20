@@ -1,6 +1,8 @@
-## Formulario de preenchimento
+## Formulario simples de preenchimento
 
 Projeto de um formulário feito com Android studio e JAVA
+
+Preenchimento de informações como nome, telefone, endereço, site, e-mail.
 
 ## Ferramentas utilizadas para este projeto
 
